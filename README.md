@@ -1,15 +1,12 @@
 # Blood Cell Count
 
-DevelopMent is a Python-based project that appears to be a web application, possibly involving machine learning or AI, given the presence of a model file (`best.pt`). This project is built using Flask (or a similar web framework) and includes several components that work together to deliver its functionalities.
+This project is built using Flask and machine learning algorithm(YOLO_V5 MODEL) and includes several components that work together to deliver its functionalities. This project is all about taking a microscopic 🔬 image of the blood and detects the RBC'S, WBC'S, PLATELETS in the image and also return the count of RBC'S, WBC'S, PLATELETS.
 
 ## Table of Contents
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
