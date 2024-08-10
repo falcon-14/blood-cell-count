@@ -1,4 +1,4 @@
-# Blood Cell COunt
+# Blood Cell Count
 
 DevelopMent is a Python-based project that appears to be a web application, possibly involving machine learning or AI, given the presence of a model file (`best.pt`). This project is built using Flask (or a similar web framework) and includes several components that work together to deliver its functionalities.
 
